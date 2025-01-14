@@ -26,7 +26,7 @@ Choose and install one of the following userscript managers for your browser:
 2. Select **"Create a new script"**.
 3. Delete any default code in the editor.
 4. Paste the entire userscript code provided below.
-5. Save the script. It should now be active and running on ChatGPT pages.
+5. Save the script. It should now be active and running on ChatGPT pages. If not, check that the URL filtering is correct.
 
 ## Usage
 
@@ -37,10 +37,3 @@ Once installed:
 
 2. **Locate Navigation Buttons**:
    - The navigation buttons will appear above the "Scroll to Bottom" button when it appears in longer conversations.
-
-3. **Use the Buttons**:
-   - **Go to First User Message**: Click the first button (skip to start icon) to jump to your first message.
-   - **Go to Last User Message**: Click the second button (end icon) to navigate to your most recent message.
-   - **Go to Latest Assistant Message**: Click the third button (chat icon) to jump to ChatGPT's latest response.
-   - **Go Up One Message**: Click the fourth button (up arrow icon) to scroll up one message at a time.
-
