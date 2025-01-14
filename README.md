@@ -1,5 +1,3 @@
-# chatgpt-conversation-navigation
-
 # ChatGPT Navigation Buttons
 
 ## Description
